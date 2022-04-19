@@ -4,10 +4,10 @@
 }
 
 .search {
-    border: solid aquamarine;
+    border: solid rgb(37, 211, 153);
     border-radius: 50px 50px;
-    color: aquamarine;
-    background-color: rgb(255, 255, 255);
+    color: rgb(37, 211, 153);
+    background-color: rgb(241, 230, 230);
     text-align: center;
     width: 300px;
     height: fit-content;
